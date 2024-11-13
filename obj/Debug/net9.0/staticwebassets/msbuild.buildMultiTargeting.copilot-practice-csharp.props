@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/copilot-practice-csharp.props" />
+</Project>
